@@ -2,10 +2,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiers.App", "Tiers.App\Tiers.App.csproj", "{2671F7DF-16DD-4390-9BB2-CCA6DD06408C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiers.Core", "Tiers.Core\Tiers.Core.csproj", "{78F312EC-A613-4C07-A66B-9895E41D78D7}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiers.DataAccess", "Tiers.DataAccess\Tiers.DataAccess.csproj", "{A2A8F492-E458-4B0C-8434-EADAF9F4E3A3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,13 +12,5 @@ Global
 		{2671F7DF-16DD-4390-9BB2-CCA6DD06408C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2671F7DF-16DD-4390-9BB2-CCA6DD06408C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2671F7DF-16DD-4390-9BB2-CCA6DD06408C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78F312EC-A613-4C07-A66B-9895E41D78D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78F312EC-A613-4C07-A66B-9895E41D78D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78F312EC-A613-4C07-A66B-9895E41D78D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78F312EC-A613-4C07-A66B-9895E41D78D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A2A8F492-E458-4B0C-8434-EADAF9F4E3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A2A8F492-E458-4B0C-8434-EADAF9F4E3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A2A8F492-E458-4B0C-8434-EADAF9F4E3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A2A8F492-E458-4B0C-8434-EADAF9F4E3A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

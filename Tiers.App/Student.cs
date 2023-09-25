@@ -1,4 +1,4 @@
-namespace Tiers.Core;
+namespace Tiers.App;
 
 public class Student
 {
